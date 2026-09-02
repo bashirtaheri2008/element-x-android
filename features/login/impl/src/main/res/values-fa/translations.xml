@@ -105,4 +105,12 @@
   <string name="screen_server_confirmation_title_login">"دارید به %1$s وارد می‌شوید"</string>
   <string name="screen_server_confirmation_title_picker_mode">"ارائه دهنده حساب را انتخاب کنید"</string>
   <string name="screen_server_confirmation_title_register">"دارید روی %1$s حساب می‌سازید"</string>
+  <string name="screen_change_server_title_login">"فراهم‌کننده حساب خود را وارد کنید"</string>
+  <string name="screen_change_server_title_register">"فراهم‌کننده حساب را انتخاب کنید"</string>
+  <string name="screen_change_server_textfield_header">"فراهم‌کننده حساب"</string>
+  <string name="screen_change_server_textfield_placeholder">"example.com"</string>
+  <string name="screen_change_server_textfield_footer_login">"اگر حسابتان توسط شرکت یا اجتماع فراهم می‌شود، فراهم‌کننده حساب را تغییر دهید (مثال: companyname.com)."</string>
+  <string name="screen_change_server_textfield_footer_register">"روی matrix.org رایگان حساب بسازید. اگر می‌خواهید با فراهم‌کننده دیگری حساب بسازید، آن را تغییر دهید (مثال: communityname.org)."</string>
+  <string name="screen_change_server_navigation_title_login">"ورود"</string>
+  <string name="screen_change_server_navigation_title_register">"ایجاد حساب"</string>
 </resources>
