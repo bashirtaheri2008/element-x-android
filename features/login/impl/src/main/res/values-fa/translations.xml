@@ -6,7 +6,7 @@
   <string name="screen_account_provider_form_subtitle">"جست‌وجو برای شرکت، اجتماع یا کارسازی خصوصی."</string>
   <string name="screen_account_provider_form_title">"یافتن فراهم کنندهٔ حساب"</string>
   <string name="screen_account_provider_signin_subtitle">"جایی که گفت‌وگوهایتان خواهند زیست — درست مثل استفاده‌تان از فراهم کنندهٔ رایانامه‌ای برای نگه داشتن رایانامه‌هایتان."</string>
-  <string name="screen_account_provider_signin_title">"در حال ساخت حساب هستید"</string>
+  <string name="screen_account_provider_signin_title">"در حال ورود به حساب هستید"</string>
   <string name="screen_account_provider_signup_subtitle">"جایی که گفت‌وگوهایتان خواهند زیست — درست مثل استفاده‌تان از فراهم کنندهٔ رایانامه‌ای برای نگه داشتن رایانامه‌هایتان."</string>
   <string name="screen_account_provider_signup_title">"دارید حسابی روی %s می‌سازید"</string>
   <string name="screen_change_account_provider_matrix_org_subtitle">"سروری سریع، امن و بهینه برای ارتباطات با مصرف اینترنت کمتر."</string>
@@ -114,3 +114,4 @@
   <string name="screen_change_server_navigation_title_login">"ورود"</string>
   <string name="screen_change_server_navigation_title_register">"ایجاد حساب"</string>
 </resources>
+
