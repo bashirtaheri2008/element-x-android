@@ -482,7 +482,7 @@
   <string name="dialog_video_quality_selector_subtitle_no_file_size">"کیفیت ویدیویی که می‌خواهید آپلود کنید را انتخاب کنید."</string>
   <string name="dialog_video_quality_selector_title">"کیفیت آپلود ویدیو را انتخاب کنید"</string>
   <string name="error_account_already_logged_in">"شما قبلاً با نام کاربری %1$s در این دستگاه وارد سیستم شده‌اید."</string>
-  <string name="error_account_creation_not_possible">"سرور خانگی شما باید ارتقا یابد تا از سرویس احراز هویت ماتریکس و ایجاد حساب کاربری پشتیبانی کند."</string>
+  <string name="error_account_creation_not_possible">"ایجاد حساب در حال حاضردر دسترس نیست (به زودی اضافه خواهد شد)"</string>
   <string name="error_failed_creating_the_permalink">"شکست در ایجاد پایاپیوند"</string>
   <string name="error_failed_loading_map">"%1$s نتوانست نقشه را بارگیری کند. لطفا بعدا دوباره امتحان کنید."</string>
   <string name="error_failed_loading_messages">"شکست در بار کردن پیام‌ها"</string>
