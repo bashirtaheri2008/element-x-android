@@ -105,4 +105,13 @@
   <string name="screen_server_confirmation_title_login">"دارید به %1$s وارد می‌شوید"</string>
   <string name="screen_server_confirmation_title_picker_mode">"ارائه دهنده حساب را انتخاب کنید"</string>
   <string name="screen_server_confirmation_title_register">"دارید روی %1$s حساب می‌سازید"</string>
+  <string name="screen_change_server_title_login">"سرور هم‌گپ را وارد کنید"</string>
+  <string name="screen_change_server_title_register">"سرور هم‌گپ را وارد کنید"</string>
+  <string name="screen_change_server_textfield_header">"آدرس سرور"</string>
+  <string name="screen_change_server_textfield_placeholder">"example.com"</string>
+  <string name="screen_change_server_textfield_footer_login">"آدرس سروری را که می‌خواهید به آن متصل شوید وارد کنید(می‌توانید از سرور داخلی یا جهانی استفاده کنید.)"</string>
+  <string name="screen_change_server_textfield_footer_register">"آدرس سروری را که می‌خواهید به آن متصل شوید وارد کنید(می‌توانید از سرور داخلی یا جهانی استفاده کنید.)"</string>
+  <string name="screen_change_server_navigation_title_login">"ورود"</string>
+  <string name="screen_change_server_navigation_title_register">"ایجاد حساب"</string>
 </resources>
+
