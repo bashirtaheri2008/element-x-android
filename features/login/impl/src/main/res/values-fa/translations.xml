@@ -8,7 +8,7 @@
   <string name="screen_account_provider_signin_subtitle">"جایی که گفت‌وگوهایتان خواهند زیست — درست مثل استفاده‌تان از فراهم کنندهٔ رایانامه‌ای برای نگه داشتن رایانامه‌هایتان."</string>
   <string name="screen_account_provider_signin_title">"دارید وارد %s می‌شوید"</string>
   <string name="screen_account_provider_signup_subtitle">"جایی که گفت‌وگوهایتان خواهند زیست — درست مثل استفاده‌تان از فراهم کنندهٔ رایانامه‌ای برای نگه داشتن رایانامه‌هایتان."</string>
- <string name="screen_account_provider_signup_title">"در حال ساخت حساب هستید"</string>
+ <string name="screen_account_provider_signup_title">"در حال ساخت حساب روی %s هستید"</string>
 <string name="screen_change_account_provider_matrix_org_subtitle">"آدرس سروری را وارد کنید که می‌خواهید حساب شما روی آن قرار داشته باشد."</string>
   <string name="screen_change_account_provider_other">"دیگر"</string>
   <string name="screen_change_account_provider_subtitle">"استفاده از فراهم کنندهٔ حسابی دیگر چون کارساز خصوصی خوتان یا حسابی کاری."</string>
